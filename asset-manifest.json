@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/fcpservices/static/css/main.9976b867.css",
-    "main.js": "/fcpservices/static/js/main.2f377244.js",
+    "main.css": "/fcpservices/static/css/main.b84215d4.css",
+    "main.js": "/fcpservices/static/js/main.6d572775.js",
     "static/js/787.c4e940b7.chunk.js": "/fcpservices/static/js/787.c4e940b7.chunk.js",
+    "static/media/site.jpg": "/fcpservices/static/media/site.0275a2aa61f9c155b3e8.jpg",
     "static/media/portfoliotwo.jpg": "/fcpservices/static/media/portfoliotwo.f3b7776107d0919046fc.jpg",
     "static/media/portfoliofour.jpg": "/fcpservices/static/media/portfoliofour.8fc2dabad9808118fd69.jpg",
     "static/media/portfoliothree.jpg": "/fcpservices/static/media/portfoliothree.cfa3c86b2b2e9e98ff6c.jpg",
@@ -23,8 +24,8 @@
     "static/media/porteiro.jpg": "/fcpservices/static/media/porteiro.411dd0978603256205ff.jpg",
     "static/media/cameracel.jpg": "/fcpservices/static/media/cameracel.af8be4e759f2ed659ea9.jpg",
     "static/media/modulo.jpg": "/fcpservices/static/media/modulo.27c4e8c022d38b3b1acc.jpg",
+    "static/media/partners5.jpg": "/fcpservices/static/media/partners5.14b9bd26e8b40085551c.jpg",
     "static/media/mail.jpg": "/fcpservices/static/media/mail.8fa473365bf503cb6461.jpg",
-    "static/media/partners5.jpg": "/fcpservices/static/media/partners5.155314cab0394de5e2f6.jpg",
     "static/media/cftv.jpg": "/fcpservices/static/media/cftv.ecab58d74b2d8e027c2c.jpg",
     "static/media/partners6.jpg": "/fcpservices/static/media/partners6.884638c3b4de2197fa75.jpg",
     "static/media/partners7.jpg": "/fcpservices/static/media/partners7.9a531a3168677d017084.jpg",
@@ -39,12 +40,12 @@
     "static/media/whatsapp.jpg": "/fcpservices/static/media/whatsapp.53fdfabfc6f76239654d.jpg",
     "static/media/whats.jpg": "/fcpservices/static/media/whats.7b23d180eac8c5bacaab.jpg",
     "index.html": "/fcpservices/index.html",
-    "main.9976b867.css.map": "/fcpservices/static/css/main.9976b867.css.map",
-    "main.2f377244.js.map": "/fcpservices/static/js/main.2f377244.js.map",
+    "main.b84215d4.css.map": "/fcpservices/static/css/main.b84215d4.css.map",
+    "main.6d572775.js.map": "/fcpservices/static/js/main.6d572775.js.map",
     "787.c4e940b7.chunk.js.map": "/fcpservices/static/js/787.c4e940b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9976b867.css",
-    "static/js/main.2f377244.js"
+    "static/css/main.b84215d4.css",
+    "static/js/main.6d572775.js"
   ]
 }
